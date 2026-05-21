@@ -12,13 +12,3 @@ Một ứng dụng Computer Vision thú vị sử dụng **Python**, **OpenCV** 
 * **OpenCV (`cv2`):** Xử lý hình ảnh từ webcam và tạo giao diện vẽ.
 * **MediaPipe:** Khung AI cốt lõi của Google để nhận diện Hand Landmarks.
 * **Numpy:** Xử lý ma trận dữ liệu ảnh tĩnh (Canvas).
-
-
-<img width="841" height="680" alt="image" src="https://github.com/user-attachments/assets/9e57234e-6b4f-4d6d-91d6-9bffd5b6c2e1" />
-
-
-
-
-
-Hãy ủng hộ để tôi phát triển thêm bản mới
- <img width="1752" height="896" alt="image" src="https://github.com/user-attachments/assets/d5a81a0a-0790-4675-a68b-d4364c9fc703" />
